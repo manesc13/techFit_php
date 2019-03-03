@@ -1,0 +1,2867 @@
+<div class="weekthree">
+<h1 data-toggle="collapse" data-target="#1_demo">Week Three</h1>
+<div id="1_demo" class="collapse">
+<h3>Day 1</h3>
+<table class="table">
+<thead class="color">
+<tr class="table-head">
+<th scope="col">Exercise</th>
+<th scope="col">Sets</th>
+<th scope="col">Reps</th>
+<th scope="col">Muscle Group</th>
+<th scope="col">Proper Form</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="col-md-8">Barbell Bent-Over Row</th>
+<td>3</td>
+<td>12-15</td>
+<td>Back</td>
+<td><a href="gifs/Bent Over Barbell Row.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Bench Press</th>
+<td>3</td>
+<td>12-15</td>
+<td>Chest</td>
+<td><a href="gifs/Barbell Bench Press.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Wide-Grip Lat Pulldown</th>
+<td>3</td>
+<td>12-15</td>
+<td>Back</td>
+<td><a href="gifs/Lat Pulldown.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Dumbbell Shoudler Press</th>
+<td>3</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/Dumbell Shoulder Press.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Incline Dumbbell Fly</th>
+<td>2</td>
+<td>12-15</td>
+<td>Chest</td>
+<td><a href="gifs/Incline Dumbbell Flye.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Incline Rear Delt Fly</th>
+<td>2</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/Incline Rear Delt Flye.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Cable Crossover (Mid Pulley)</th>
+<td>2</td>
+<td>12-15</td>
+<td>Chest</td>
+<td><a href="gifs/Cable Crossover.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Cable Lateral Raise</th>
+<td>2</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/Cable Lateral Raise.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Dumbbell Shrug</th>
+<td>3</td>
+<td>12-15</td>
+<td>Traps</td>
+<td><a href="gifs/Dumbbell Shrug.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Straight-Arm Dip</th>
+<td>3</td>
+<td>To failure</td>
+<td>Triceps</td>
+<td><a href="gifs/Straight-Arm Dip.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Dumbbell Triceps Kickback</th>
+<td>3</td>
+<td>12-15</td>
+<td>Triceps</td>
+<td><a href="gifs/Dumbbell Kickback.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Behind the Back Cable Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Biceps</td>
+<td><a href="gifs/Behind-The-Back Cable Curl.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Walking Lunge</th>
+<td>3</td>
+<td>12-15</td>
+<td>Legs</td>
+<td><a href="gifs/Walking Lunge.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Plank</th>
+<td>3</td>
+<td>To Failure</td>
+<td>Abs</td>
+<td><a href="gifs/Plank.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Dumbbell Wrist Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Forearms</td>
+<td><a href="gifs/Dumbbell Wrist Curl.gif">Link</a></td>
+</tr>
+</tbody>
+</table>
+
+<h3>Day 2</h3>
+<table class="table">
+<thead class="color">
+<tr class="table-head">
+<th scope="col">Exercise</th>
+<th scope="col">Sets</th>
+<th scope="col">Reps</th>
+<th scope="col">Muscle Group</th>
+<th scope="col">Proper Form</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="col-md-8">Triceps Pressdown</th>
+<td>3</td>
+<td>12-15</td>
+<td>Triceps</td>
+<td><a href="">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Barbell Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Biceps</td>
+<td><a href="gifs/Barbell Curl.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Overhead Cable Triceps Extension (High Pulley)</th>
+<td>3</td>
+<td>12-15</td>
+<td>Triceps</td>
+<td><a href="gifs/Cable Overhead Triceps Extension.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Cable Overhead Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/Cable Overhead Curl.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Dumbbell Step-Up</th>
+<td>2</td>
+<td>12-15</td>
+<td>Chest</td>
+<td><a href="gifs/Step Up.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">V-Up</th>
+<td>2</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/V-Up.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Cable Crossover (Mid Pulley)</th>
+<td>2</td>
+<td>12-15</td>
+<td>Chest</td>
+<td><a href="gifs/Cable Crossover.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Cable Front Raise</th>
+<td>2</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/Cable Lateral Raise.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Straight-Arm Pulldown</th>
+<td>3</td>
+<td>12-15</td>
+<td>Traps</td>
+<td><a href="gifs/Straight-Arm Pulldown.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Straight-Arm Pushdown</th>
+<td>3</td>
+<td>12-15</td>
+<td>Traps</td>
+<td><a href="gifs/Straight-Arm Pushdown.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Barbell Reverse Wrist Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Triceps</td>
+<td><a href="Barbell Behind-the-Back Wrist Curl.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Dumbbell Wrist Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Forearms</td>
+<td><a href="gifs/Dumbbell Wrist Curl.gif">Link</a></td>
+</tr>
+</tbody>
+</table>
+<h3>Day 3</h3>
+<table class="table">
+<thead class="color">
+<tr class="table-head">
+<th scope="col">Exercise</th>
+<th scope="col">Sets</th>
+<th scope="col">Reps</th>
+<th scope="col">Muscle Group</th>
+<th scope="col">Proper Form</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="col-md-8">Squat</th>
+<td>3</td>
+<td>12-15</td>
+<td>Legs</td>
+<td><a href="gifs/Squat.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Hanging Knee Raise</th>
+<td>3</td>
+<td>12-15</td>
+<td>Abs</td>
+<td><a href="gifs/Hanging Knee Raise.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Romanian Deadlift</th>
+<td>2</td>
+<td>12-15</td>
+<td>Legs</td>
+<td><a href="gifs/Romanian Deadlift.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Weighted Crunch</th>
+<td>2</td>
+<td>12-15</td>
+<td>Abs</td>
+<td><a href="gifs/Weighted Crunch.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Leg Extension</th>
+<td>2</td>
+<td>12-15</td>
+<td>Legs</td>
+<td><a href="gifs/Leg Extension.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Lying Leg Curl</th>
+<td>2</td>
+<td>12-15</td>
+<td>Legs</td>
+<td><a href="gifs/Lying Leg Curl.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Side Plank Reach Through</th>
+<td>2</td>
+<td>To Failure</td>
+<td>Abs</td>
+<td><a href="gifs/Side Plank Reach Through.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Barbell Shrug</th>
+<td>2</td>
+<td>12-15</td>
+<td>Traps</td>
+<td><a href="gifs/Barbell Shrug.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Decline Bench Press</th>
+<td>3</td>
+<td>12-15</td>
+<td>Bench</td>
+<td><a href="gifs/Decline Bench Press.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Barbell Upright Row</th>
+<td>3</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/Barbell Upright Row.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Seated Cable Row(Close)</th>
+<td>3</td>
+<td>12-15</td>
+<td>Back</td>
+<td><a href="gifs/Seated Cable Row.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Dumbbell Bench Press</th>
+<td>3</td>
+<td>12-15</td>
+<td>Chest</td>
+<td><a href="gifs/Dumbbell Bench Press.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Dumbbell Overhead Extension</th>
+<td>3</td>
+<td>12-15</td>
+<td>Triceps</td>
+<td><a href="gifs/Dumbbell Overhead Triceps Extension.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Concentration Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Biceps</td>
+<td><a href="gifs/Concentration Curl.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Standing Calf Raise</th>
+<td>3</td>
+<td>12-15</td>
+<td>Calves</td>
+<td><a href="gifs/Standing Calf Raise.gif">Link</a></td>
+</tr>
+</tbody>
+</table>
+
+<h3>Day 4</h3>
+<table class="table">
+<thead class="color">
+<tr class="table-head">
+<th scope="col">Exercise</th>
+<th scope="col">Sets</th>
+<th scope="col">Reps</th>
+<th scope="col">Muscle Group</th>
+<th scope="col">Proper Form</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="col-md-8">Reverse-Grip Dumbbell Press</th>
+<td>3</td>
+<td>12-15</td>
+<td>Chest</td>
+<td><a href="gifs/Reverse-Grip Dumbbell Press.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Incline Dumbbell Row</th>
+<td>3</td>
+<td>12-15</td>
+<td>Back</td>
+<td><a href="gifs/Incline Dumbbell Row.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Dumbbell Lateral Raise</th>
+<td>3</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/Dumbbell Lateral Raise.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Decline Dumbbell Fly</th>
+<td>3</td>
+<td>12-15</td>
+<td>Chest</td>
+<td><a href="gifs/Decline Dumbbell Flye.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Dips</th>
+<td>2</td>
+<td>12-15</td>
+<td>Chest</td>
+<td><a href="gifs/Dips.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Dumbbell Upright Row</th>
+<td>2</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/Dumbbell Upright Row.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Arnold Press</th>
+<td>2</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/Arnold Press.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Reverse-Grip Lat Pulldown</th>
+<td>2</td>
+<td>12-15</td>
+<td>Back</td>
+<td><a href="gifs/Reverse-Grip Lat Pulldown.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Smith Machine Behind the Back Shrug</th>
+<td>3</td>
+<td>12-15</td>
+<td>Traps</td>
+<td><a href="gifs/Smith Machine Behind-the-Back Shrug.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Straight-Arm Pushdown</th>
+<td>3</td>
+<td>12-15</td>
+<td>Traps</td>
+<td><a href="gifs/Straight-Arm Pushdown.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Reverse Hamstring Extension</th>
+<td>3</td>
+<td>12-15</td>
+<td>Legs</td>
+<td><a href="gifs/Reverse Hamstring Extension.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Dumbbell Tricep Kickback</th>
+<td>3</td>
+<td>12-15</td>
+<td>Triceps</td>
+<td><a href="gifs/Dumbbell Kickback.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Hammer Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Biceps</td>
+<td><a href="">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Seated Calf Raise</th>
+<td>3</td>
+<td>12-15</td>
+<td>Calf Raise</td>
+<td><a href="gifs/Seated Calf Raise.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Dumbbell Reverse Wrist Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Forearms</td>
+<td><a href="gifs/Reverse Wrist Curl.gif">Link</a></td>
+</tr>
+</tbody>
+</table>
+
+<h3>Day 5</h3>
+<table class="table">
+<thead class="color">
+<tr class="table-head">
+<th scope="col">Exercise</th>
+<th scope="col">Sets</th>
+<th scope="col">Reps</th>
+<th scope="col">Muscle Group</th>
+<th scope="col">Proper Form</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="col-md-8">Cable Overhead Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Biceps</td>
+<td><a href="gifs/Cable Overhead Curl.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Lying Cable Tricep Extensions(Bench)</th>
+<td>3</td>
+<td>12-15</td>
+<td>Triceps</td>
+<td><a href="gifs/Cable Lying Triceps Extension.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Incline Dumbbell Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Biceps</td>
+<td><a href="gifs/Incline Dumbbell Curl.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Bench Dip</th>
+<td>3</td>
+<td>12-15</td>
+<td>Triceps</td>
+<td><a href="gifs/Bench Dip.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Cable Fly</th>
+<td>3</td>
+<td>12-15</td>
+<td>Chest</td>
+<td><a href="gifs/Cable Flye.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">High Cable Rear Delt Fly</th>
+<td>3</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/Cable Rear Delt Flye.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Straight-Arm Pulldown</th>
+<td>3</td>
+<td>12-15</td>
+<td>Back</td>
+<td><a href="gifs/Straight-Arm Pulldown.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Cable Front Raise</th>
+<td>3</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/Cable Lateral Raise.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Barbell Hack Squat</th>
+<td>3</td>
+<td>12-15</td>
+<td>Legs</td>
+<td><a href="gifs/Barbell Hack Squat.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Hip Thrust</th>
+<td>3</td>
+<td>12-15</td>
+<td>Abs</td>
+<td><a href="gifs/Hip Thrust.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Standing Calf Raise</th>
+<td>3</td>
+<td>12-15</td>
+<td>Calves</td>
+<td><a href="gifs/Standing Calf Raise.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Standing Calf Machine Shrug</th>
+<td>3</td>
+<td>12-15</td>
+<td>Traps</td>
+<td><a href="gifs/Standing Calf Raise.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Barbell Behind the Back Wrist Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Forearms</td>
+<td><a href="gifs/Barbell Behind-the-Back Wrist Curl.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Standing Barbell Reverse Wrist Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Forearms</td>
+<td><a href="gifs/Standing Barbell Reverse Wrist Curl.gif">Link</a></td>
+</tr>
+</tbody>
+</table>
+
+<h3>Day 6</h3>
+<table class="table">
+<thead class="color">
+<tr class="table-head">
+<th scope="col">Exercise</th>
+<th scope="col">Sets</th>
+<th scope="col">Reps</th>
+<th scope="col">Muscle Group</th>
+<th scope="col">Proper Form</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="col-md-8">Barbell Roll Out</th>
+<td>3</td>
+<td>To Failure</td>
+<td>Abs</td>
+<td><a href="gifs/Barbell Roll Out.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Deadlift</th>
+<td>3</td>
+<td>12-15</td>
+<td>Whole Body Movement</td>
+<td><a href="gifs/Deadlift.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Roman Chair Crunch</th>
+<td>3</td>
+<td>12-15</td>
+<td>Abs</td>
+<td><a href="gifs/Roman Chair Crunch.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Back Extension</th>
+<td>3</td>
+<td>12-15</td>
+<td>Back</td>
+<td><a href="gifs/Back Extension.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Standing Lat Pulldown</th>
+<td>3</td>
+<td>12-15</td>
+<td>Back</td>
+<td><a href="gifs/Standing Lat Pulldown.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Incline Dumbbell Press</th>
+<td>2</td>
+<td>12-15</td>
+<td>Chest</td>
+<td><a href="gifs/Incline Dumbbell Press.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Standing Barbell Shoulder Press</th>
+<td>2</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/Standing Barbell Shoulder Press.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Pull-Up</th>
+<td>2</td>
+<td>12-15</td>
+<td>Back</td>
+<td><a href="gifs/Pull-Up.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Lying Triceps Extension</th>
+<td>3</td>
+<td>12-15</td>
+<td>Triceps</td>
+<td><a href="gifs/Lying Triceps Extension.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Prone Incline Dumbbell Curl</th>
+<td>3</td>
+<td>To failure</td>
+<td>Biceps</td>
+<td><a href="gifs/Prone Incline Dumbbell Curl.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Seated Calf Raise</th>
+<td>3</td>
+<td>12-15</td>
+<td>Calves</td>
+<td><a href="gifs/Seated Calf Raise.gif">Link</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div class="weekfour">
+<h1 data-toggle="collapse" data-target="#2_demo">Week Four</h1>
+<div id="2_demo" class="collapse">
+<h3>Day 1</h3>
+<table class="table">
+<thead class="color">
+<tr class="table-head">
+<th scope="col">Exercise</th>
+<th scope="col">Sets</th>
+<th scope="col">Reps</th>
+<th scope="col">Muscle Group</th>
+<th scope="col">Proper Form</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="col-md-8">Barbell Bent-Over Row</th>
+<td>3</td>
+<td>12-15</td>
+<td>Back</td>
+<td><a href="gifs/Bent Over Barbell Row.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Bench Press</th>
+<td>3</td>
+<td>12-15</td>
+<td>Chest</td>
+<td><a href="gifs/Barbell Bench Press.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Wide-Grip Lat Pulldown</th>
+<td>3</td>
+<td>12-15</td>
+<td>Back</td>
+<td><a href="gifs/Lat Pulldown.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Dumbbell Shoudler Press</th>
+<td>3</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/Dumbell Shoulder Press.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Incline Dumbbell Fly</th>
+<td>2</td>
+<td>12-15</td>
+<td>Chest</td>
+<td><a href="gifs/Incline Dumbbell Flye.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Incline Rear Delt Fly</th>
+<td>2</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/Incline Rear Delt Flye.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Cable Crossover (Mid Pulley)</th>
+<td>2</td>
+<td>12-15</td>
+<td>Chest</td>
+<td><a href="gifs/Cable Crossover.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Cable Lateral Raise</th>
+<td>2</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/Cable Lateral Raise.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Dumbbell Shrug</th>
+<td>3</td>
+<td>12-15</td>
+<td>Traps</td>
+<td><a href="gifs/Dumbbell Shrug.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Straight-Arm Dip</th>
+<td>3</td>
+<td>To failure</td>
+<td>Triceps</td>
+<td><a href="gifs/Straight-Arm Dip.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Dumbbell Triceps Kickback</th>
+<td>3</td>
+<td>12-15</td>
+<td>Triceps</td>
+<td><a href="gifs/Dumbbell Kickback.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Behind the Back Cable Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Biceps</td>
+<td><a href="gifs/Behind-The-Back Cable Curl.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Walking Lunge</th>
+<td>3</td>
+<td>12-15</td>
+<td>Legs</td>
+<td><a href="gifs/Walking Lunge.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Plank</th>
+<td>3</td>
+<td>To Failure</td>
+<td>Abs</td>
+<td><a href="gifs/Plank.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Leg Press Calf Raise</th>
+<td>3</td>
+<td>12-15</td>
+<td>Legs</td>
+<td><a href="gifs/Leg Press Calf Raise.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Dumbbell Wrist Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Forearms</td>
+<td><a href="gifs/Dumbbell Wrist Curl.gif">Link</a></td>
+</tr>
+</tbody>
+</table>
+
+<h3>Day 2</h3>
+<table class="table">
+<thead class="color">
+<tr class="table-head">
+<th scope="col">Exercise</th>
+<th scope="col">Sets</th>
+<th scope="col">Reps</th>
+<th scope="col">Muscle Group</th>
+<th scope="col">Proper Form</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="col-md-8">Triceps Pressdown</th>
+<td>3</td>
+<td>12-15</td>
+<td>Triceps</td>
+<td><a href="gifs/Triceps Pressdown.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Barbell Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Biceps</td>
+<td><a href="gifs/Barbell Curl.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Overhead Cable Triceps Extension (High Pulley)</th>
+<td>3</td>
+<td>12-15</td>
+<td>Triceps</td>
+<td><a href="gifs/Cable Overhead Triceps Extension.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Cable Overhead Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/Cable Overhead Curl.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Dumbbell Step-Up</th>
+<td>2</td>
+<td>12-15</td>
+<td>Chest</td>
+<td><a href="gifs/Step Up.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">V-Up</th>
+<td>2</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/V-Up.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Cable Crossover (Mid Pulley)</th>
+<td>2</td>
+<td>12-15</td>
+<td>Chest</td>
+<td><a href="gifs/Cable Crossover.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Cable Front Raise</th>
+<td>2</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/Cable Lateral Raise.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Straight-Arm Pulldown</th>
+<td>3</td>
+<td>12-15</td>
+<td>Traps</td>
+<td><a href="gifs/Straight-Arm Pulldown.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Straight-Arm Pushdown</th>
+<td>3</td>
+<td>12-15</td>
+<td>Traps</td>
+<td><a href="gifs/Straight-Arm Pushdown.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Barbell Reverse Wrist Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Triceps</td>
+<td><a href="Barbell Behind-the-Back Wrist Curl.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Dumbbell Wrist Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Forearms</td>
+<td><a href="gifs/Dumbbell Wrist Curl.gif">Link</a></td>
+</tr>
+</tbody>
+</table>
+<h3>Day 3</h3>
+<table class="table">
+<thead class="color">
+<tr class="table-head">
+<th scope="col">Exercise</th>
+<th scope="col">Sets</th>
+<th scope="col">Reps</th>
+<th scope="col">Muscle Group</th>
+<th scope="col">Proper Form</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="col-md-8">Squat</th>
+<td>3</td>
+<td>12-15</td>
+<td>Legs</td>
+<td><a href="gifs/Squat.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Hanging Knee Raise</th>
+<td>3</td>
+<td>12-15</td>
+<td>Abs</td>
+<td><a href="gifs/Hanging Knee Raise.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Romanian Deadlift</th>
+<td>2</td>
+<td>12-15</td>
+<td>Legs</td>
+<td><a href="gifs/Romanian Deadlift.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Weighted Crunch</th>
+<td>2</td>
+<td>12-15</td>
+<td>Abs</td>
+<td><a href="gifs/Weighted Crunch.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Leg Extension</th>
+<td>2</td>
+<td>12-15</td>
+<td>Legs</td>
+<td><a href="gifs/Leg Extension.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Lying Leg Curl</th>
+<td>2</td>
+<td>12-15</td>
+<td>Legs</td>
+<td><a href="gifs/Lying Leg Curl.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Side Plank Reach Through</th>
+<td>2</td>
+<td>To Failure</td>
+<td>Abs</td>
+<td><a href="gifs/Side Plank Reach Through.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Barbell Shrug</th>
+<td>2</td>
+<td>12-15</td>
+<td>Traps</td>
+<td><a href="gifs/Barbell Shrug.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Decline Bench Press</th>
+<td>3</td>
+<td>12-15</td>
+<td>Bench</td>
+<td><a href="gifs/Decline Bench Press.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Barbell Upright Row</th>
+<td>3</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/Barbell Upright Row.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Seated Cable Row(Close)</th>
+<td>3</td>
+<td>12-15</td>
+<td>Back</td>
+<td><a href="gifs/Seated Cable Row.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Dumbbell Bench Press</th>
+<td>3</td>
+<td>12-15</td>
+<td>Chest</td>
+<td><a href="gifs/Dumbbell Bench Press.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Dumbbell Overhead Extension</th>
+<td>3</td>
+<td>12-15</td>
+<td>Triceps</td>
+<td><a href="gifs/Dumbbell Overhead Triceps Extension.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Concentration Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Biceps</td>
+<td><a href="gifs/Concentration Curl.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Standing Calf Raise</th>
+<td>3</td>
+<td>12-15</td>
+<td>Calves</td>
+<td><a href="gifs/Standing Calf Raise.gif">Link</a></td>
+</tr>
+</tbody>
+</table>
+
+<h3>Day 4</h3>
+<table class="table">
+<thead class="color">
+<tr class="table-head">
+<th scope="col">Exercise</th>
+<th scope="col">Sets</th>
+<th scope="col">Reps</th>
+<th scope="col">Muscle Group</th>
+<th scope="col">Proper Form</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="col-md-8">Reverse-Grip Dumbbell Press</th>
+<td>3</td>
+<td>12-15</td>
+<td>Chest</td>
+<td><a href="gifs/Reverse-Grip Dumbbell Press.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Incline Dumbbell Row</th>
+<td>3</td>
+<td>12-15</td>
+<td>Back</td>
+<td><a href="gifs/Incline Dumbbell Row.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Dumbbell Lateral Raise</th>
+<td>3</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/Dumbbell Lateral Raise.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Decline Dumbbell Fly</th>
+<td>3</td>
+<td>12-15</td>
+<td>Chest</td>
+<td><a href="gifs/Decline Dumbbell Flye.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Dips</th>
+<td>2</td>
+<td>12-15</td>
+<td>Chest</td>
+<td><a href="gifs/Dips.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Dumbbell Upright Row</th>
+<td>2</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/Dumbbell Upright Row.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Arnold Press</th>
+<td>2</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/Arnold Press.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Reverse-Grip Lat Pulldown</th>
+<td>2</td>
+<td>12-15</td>
+<td>Back</td>
+<td><a href="gifs/Reverse-Grip Lat Pulldown.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Smith Machine Behind the Back Shrug</th>
+<td>3</td>
+<td>12-15</td>
+<td>Traps</td>
+<td><a href="gifs/Smith Machine Behind-the-Back Shrug.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Straight-Arm Pushdown</th>
+<td>3</td>
+<td>12-15</td>
+<td>Traps</td>
+<td><a href="gifs/Straight-Arm Pushdown.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Reverse Hamstring Extension</th>
+<td>3</td>
+<td>12-15</td>
+<td>Legs</td>
+<td><a href="gifs/Reverse Hamstring Extension.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Dumbbell Tricep Kickback</th>
+<td>3</td>
+<td>12-15</td>
+<td>Triceps</td>
+<td><a href="gifs/Dumbbell Kickback.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Hammer Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Biceps</td>
+<td><a href="gifs/Hammer Curl.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Seated Calf Raise</th>
+<td>3</td>
+<td>12-15</td>
+<td>Calf Raise</td>
+<td><a href="gifs/Seated Calf Raise.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Dumbbell Reverse Wrist Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Forearms</td>
+<td><a href="gifs/Reverse Wrist Curl.gif">Link</a></td>
+</tr>
+</tbody>
+</table>
+
+<h3>Day 5</h3>
+<table class="table">
+<thead class="color">
+<tr class="table-head">
+<th scope="col">Exercise</th>
+<th scope="col">Sets</th>
+<th scope="col">Reps</th>
+<th scope="col">Muscle Group</th>
+<th scope="col">Proper Form</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="col-md-8">Cable Overhead Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Biceps</td>
+<td><a href="gifs/Cable Overhead Curl.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Lying Cable Tricep Extensions(Bench)</th>
+<td>3</td>
+<td>12-15</td>
+<td>Triceps</td>
+<td><a href="gifs/Cable Lying Triceps Extension.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Incline Dumbbell Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Biceps</td>
+<td><a href="gifs/Incline Dumbbell Curl.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Bench Dip</th>
+<td>3</td>
+<td>12-15</td>
+<td>Triceps</td>
+<td><a href="gifs/Bench Dip.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Cable Fly</th>
+<td>3</td>
+<td>12-15</td>
+<td>Chest</td>
+<td><a href="gifs/Cable Flye.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">High Cable Rear Delt Fly</th>
+<td>3</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/Cable Rear Delt Flye.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Straight-Arm Pulldown</th>
+<td>3</td>
+<td>12-15</td>
+<td>Back</td>
+<td><a href="gifs/Straight-Arm Pulldown.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Cable Front Raise</th>
+<td>3</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/Cable Lateral Raise.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Barbell Hack Squat</th>
+<td>3</td>
+<td>12-15</td>
+<td>Legs</td>
+<td><a href="gifs/Barbell Hack Squat.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Hip Thrust</th>
+<td>3</td>
+<td>12-15</td>
+<td>Abs</td>
+<td><a href="gifs/Hip Thrust.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Standing Calf Raise</th>
+<td>3</td>
+<td>12-15</td>
+<td>Calves</td>
+<td><a href="gifs/Standing Calf Raise.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Standing Calf Machine Shrug</th>
+<td>3</td>
+<td>12-15</td>
+<td>Traps</td>
+<td><a href="gifs/Standing Calf Raise.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Barbell Behind the Back Wrist Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Forearms</td>
+<td><a href="gifs/Barbell Behind-the-Back Wrist Curl.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Standing Barbell Reverse Wrist Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Forearms</td>
+<td><a href="gifs/Standing Barbell Reverse Wrist Curl.gif">Link</a></td>
+</tr>
+</tbody>
+</table>
+
+<h3>Day 6</h3>
+<table class="table">
+<thead class="color">
+<tr class="table-head">
+<th scope="col">Exercise</th>
+<th scope="col">Sets</th>
+<th scope="col">Reps</th>
+<th scope="col">Muscle Group</th>
+<th scope="col">Proper Form</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="col-md-8">Barbell Roll Out</th>
+<td>3</td>
+<td>To Failure</td>
+<td>Abs</td>
+<td><a href="gifs/Barbell Roll Out.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Deadlift</th>
+<td>3</td>
+<td>12-15</td>
+<td>Whole Body Movement</td>
+<td><a href="gifs/Deadlift.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Roman Chair Crunch</th>
+<td>3</td>
+<td>12-15</td>
+<td>Abs</td>
+<td><a href="gifs/Roman Chair Crunch.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Back Extension</th>
+<td>3</td>
+<td>12-15</td>
+<td>Back</td>
+<td><a href="gifs/Back Extension.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Standing Lat Pulldown</th>
+<td>3</td>
+<td>12-15</td>
+<td>Back</td>
+<td><a href="gifs/Standing Lat Pulldown.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Incline Dumbbell Press</th>
+<td>2</td>
+<td>12-15</td>
+<td>Chest</td>
+<td><a href="gifs/Incline Dumbbell Press.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Standing Barbell Shoulder Press</th>
+<td>2</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/Standing Barbell Shoulder Press.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Pull-Up</th>
+<td>2</td>
+<td>12-15</td>
+<td>Back</td>
+<td><a href="gifs/Pull-Up.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Lying Triceps Extension</th>
+<td>3</td>
+<td>12-15</td>
+<td>Triceps</td>
+<td><a href="gifs/Lying Triceps Extension.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Prone Incline Dumbbell Curl</th>
+<td>3</td>
+<td>To failure</td>
+<td>Biceps</td>
+<td><a href="gifs/Prone Incline Dumbbell Curl.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Seated Calf Raise</th>
+<td>3</td>
+<td>12-15</td>
+<td>Calves</td>
+<td><a href="gifs/Seated Calf Raise.gif">Link</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div class="weekfive">
+<h1 data-toggle="collapse" data-target="#3_demo">Week Five</h1>
+<div id="3_demo" class="collapse">
+<h3>Day 1</h3>
+<table class="table">
+<thead class="color">
+<tr class="table-head">
+<th scope="col">Exercise</th>
+<th scope="col">Sets</th>
+<th scope="col">Reps</th>
+<th scope="col">Muscle Group</th>
+<th scope="col">Proper Form</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="col-md-8">Barbell Bent-Over Row</th>
+<td>3</td>
+<td>12-15</td>
+<td>Back</td>
+<td><a href="gifs/Bent Over Barbell Row.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Bench Press</th>
+<td>3</td>
+<td>12-15</td>
+<td>Chest</td>
+<td><a href="gifs/Barbell Bench Press.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Wide-Grip Lat Pulldown</th>
+<td>3</td>
+<td>12-15</td>
+<td>Back</td>
+<td><a href="gifs/Lat Pulldown.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Dumbbell Shoudler Press</th>
+<td>3</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/Dumbell Shoulder Press.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Incline Dumbbell Fly</th>
+<td>2</td>
+<td>12-15</td>
+<td>Chest</td>
+<td><a href="gifs/Incline Dumbbell Flye.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Incline Rear Delt Fly</th>
+<td>2</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/Incline Rear Delt Flye.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Cable Crossover (Mid Pulley)</th>
+<td>2</td>
+<td>12-15</td>
+<td>Chest</td>
+<td><a href="gifs/Cable Crossover.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Cable Lateral Raise</th>
+<td>2</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/Cable Lateral Raise.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Dumbbell Shrug</th>
+<td>3</td>
+<td>12-15</td>
+<td>Traps</td>
+<td><a href="gifs/Dumbbell Shrug.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Straight-Arm Dip</th>
+<td>3</td>
+<td>To failure</td>
+<td>Triceps</td>
+<td><a href="gifs/Straight-Arm Dip.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Dumbbell Triceps Kickback</th>
+<td>3</td>
+<td>12-15</td>
+<td>Triceps</td>
+<td><a href="gifs/Dumbbell Kickback.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Behind the Back Cable Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Biceps</td>
+<td><a href="gifs/Behind-The-Back Cable Curl.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Walking Lunge</th>
+<td>3</td>
+<td>12-15</td>
+<td>Legs</td>
+<td><a href="gifs/Walking Lunge.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Plank</th>
+<td>3</td>
+<td>To Failure</td>
+<td>Abs</td>
+<td><a href="gifs/Plank.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Leg Press Calf Raise</th>
+<td>3</td>
+<td>12-15</td>
+<td>Legs</td>
+<td><a href="gifs/Leg Press Calf Raise.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Dumbbell Wrist Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Forearms</td>
+<td><a href="gifs/Dumbbell Wrist Curl.gif">Link</a></td>
+</tr>
+</tbody>
+</table>
+
+<h3>Day 2</h3>
+<table class="table">
+<thead class="color">
+<tr class="table-head">
+<th scope="col">Exercise</th>
+<th scope="col">Sets</th>
+<th scope="col">Reps</th>
+<th scope="col">Muscle Group</th>
+<th scope="col">Proper Form</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="col-md-8">Triceps Pressdown</th>
+<td>3</td>
+<td>12-15</td>
+<td>Triceps</td>
+<td><a href="gifs/Triceps Pressdown.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Barbell Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Biceps</td>
+<td><a href="gifs/Barbell Curl.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Overhead Cable Triceps Extension (High Pulley)</th>
+<td>3</td>
+<td>12-15</td>
+<td>Triceps</td>
+<td><a href="gifs/Cable Overhead Triceps Extension.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Cable Overhead Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/Cable Overhead Curl.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Dumbbell Step-Up</th>
+<td>2</td>
+<td>12-15</td>
+<td>Chest</td>
+<td><a href="gifs/Step Up.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">V-Up</th>
+<td>2</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/V-Up.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Cable Crossover (Mid Pulley)</th>
+<td>2</td>
+<td>12-15</td>
+<td>Chest</td>
+<td><a href="gifs/Cable Crossover.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Cable Front Raise</th>
+<td>2</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/Cable Lateral Raise.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Straight-Arm Pulldown</th>
+<td>3</td>
+<td>12-15</td>
+<td>Traps</td>
+<td><a href="gifs/Straight-Arm Pulldown.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Straight-Arm Pushdown</th>
+<td>3</td>
+<td>12-15</td>
+<td>Traps</td>
+<td><a href="gifs/Straight-Arm Pushdown.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Barbell Reverse Wrist Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Triceps</td>
+<td><a href="Barbell Behind-the-Back Wrist Curl.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Dumbbell Wrist Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Forearms</td>
+<td><a href="gifs/Dumbbell Wrist Curl.gif">Link</a></td>
+</tr>
+</tbody>
+</table>
+
+<h3>Day 3</h3>
+<table class="table">
+<thead class="color">
+<tr class="table-head">
+<th scope="col">Exercise</th>
+<th scope="col">Sets</th>
+<th scope="col">Reps</th>
+<th scope="col">Muscle Group</th>
+<th scope="col">Proper Form</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="col-md-8">Squat</th>
+<td>3</td>
+<td>12-15</td>
+<td>Legs</td>
+<td><a href="gifs/Squat.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Hanging Knee Raise</th>
+<td>3</td>
+<td>12-15</td>
+<td>Abs</td>
+<td><a href="gifs/Hanging Knee Raise.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Romanian Deadlift</th>
+<td>2</td>
+<td>12-15</td>
+<td>Legs</td>
+<td><a href="gifs/Romanian Deadlift.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Weighted Crunch</th>
+<td>2</td>
+<td>12-15</td>
+<td>Abs</td>
+<td><a href="gifs/Weighted Crunch.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Leg Extension</th>
+<td>2</td>
+<td>12-15</td>
+<td>Legs</td>
+<td><a href="gifs/Leg Extension.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Lying Leg Curl</th>
+<td>2</td>
+<td>12-15</td>
+<td>Legs</td>
+<td><a href="gifs/Lying Leg Curl.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Side Plank Reach Through</th>
+<td>2</td>
+<td>To Failure</td>
+<td>Abs</td>
+<td><a href="gifs/Side Plank Reach Through.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Barbell Shrug</th>
+<td>2</td>
+<td>12-15</td>
+<td>Traps</td>
+<td><a href="gifs/Barbell Shrug.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Decline Bench Press</th>
+<td>3</td>
+<td>12-15</td>
+<td>Bench</td>
+<td><a href="gifs/Decline Bench Press.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Barbell Upright Row</th>
+<td>3</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/Barbell Upright Row.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Seated Cable Row(Close)</th>
+<td>3</td>
+<td>12-15</td>
+<td>Back</td>
+<td><a href="gifs/Seated Cable Row.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Dumbbell Bench Press</th>
+<td>3</td>
+<td>12-15</td>
+<td>Chest</td>
+<td><a href="gifs/Dumbbell Bench Press.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Dumbbell Overhead Extension</th>
+<td>3</td>
+<td>12-15</td>
+<td>Triceps</td>
+<td><a href="gifs/Dumbbell Overhead Triceps Extension.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Concentration Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Biceps</td>
+<td><a href="gifs/Concentration Curl.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Standing Calf Raise</th>
+<td>3</td>
+<td>12-15</td>
+<td>Calves</td>
+<td><a href="gifs/Standing Calf Raise.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+<h3>Day 4</h3>
+<table class="table">
+<thead class="color">
+<tr class="table-head">
+<th scope="col">Exercise</th>
+<th scope="col">Sets</th>
+<th scope="col">Reps</th>
+<th scope="col">Muscle Group</th>
+<th scope="col">Proper Form</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="col-md-8">Reverse-Grip Dumbbell Press</th>
+<td>3</td>
+<td>12-15</td>
+<td>Chest</td>
+<td><a href="gifs/Reverse-Grip Dumbbell Press.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Incline Dumbbell Row</th>
+<td>3</td>
+<td>12-15</td>
+<td>Back</td>
+<td><a href="gifs/Incline Dumbbell Row.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Dumbbell Lateral Raise</th>
+<td>3</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/Dumbbell Lateral Raise.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Decline Dumbbell Fly</th>
+<td>3</td>
+<td>12-15</td>
+<td>Chest</td>
+<td><a href="gifs/Decline Dumbbell Flye.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Dips</th>
+<td>2</td>
+<td>12-15</td>
+<td>Chest</td>
+<td><a href="gifs/Dips.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Dumbbell Upright Row</th>
+<td>2</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/Dumbbell Upright Row.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Arnold Press</th>
+<td>2</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/Arnold Press.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Reverse-Grip Lat Pulldown</th>
+<td>2</td>
+<td>12-15</td>
+<td>Back</td>
+<td><a href="gifs/Reverse-Grip Lat Pulldown.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Smith Machine Behind the Back Shrug</th>
+<td>3</td>
+<td>12-15</td>
+<td>Traps</td>
+<td><a href="gifs/Smith Machine Behind-the-Back Shrug.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Straight-Arm Pushdown</th>
+<td>3</td>
+<td>12-15</td>
+<td>Traps</td>
+<td><a href="gifs/Straight-Arm Pushdown.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Reverse Hamstring Extension</th>
+<td>3</td>
+<td>12-15</td>
+<td>Legs</td>
+<td><a href="gifs/Reverse Hamstring Extension.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Dumbbell Tricep Kickback</th>
+<td>3</td>
+<td>12-15</td>
+<td>Triceps</td>
+<td><a href="gifs/Dumbbell Kickback.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Hammer Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Biceps</td>
+<td><a href="gifs/Hammer Curl.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Seated Calf Raise</th>
+<td>3</td>
+<td>12-15</td>
+<td>Calf Raise</td>
+<td><a href="gifs/Seated Calf Raise.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Dumbbell Reverse Wrist Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Forearms</td>
+<td><a href="gifs/Reverse Wrist Curl.gif">Link</a></td>
+</tr>
+</tbody>
+</table>
+
+<h3>Day 5</h3>
+<table class="table">
+<thead class="color">
+<tr class="table-head">
+<th scope="col">Exercise</th>
+<th scope="col">Sets</th>
+<th scope="col">Reps</th>
+<th scope="col">Muscle Group</th>
+<th scope="col">Proper Form</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="col-md-8">Cable Overhead Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Biceps</td>
+<td><a href="gifs/Cable Overhead Curl.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Lying Cable Tricep Extensions(Bench)</th>
+<td>3</td>
+<td>12-15</td>
+<td>Triceps</td>
+<td><a href="gifs/Cable Lying Triceps Extension.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Incline Dumbbell Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Biceps</td>
+<td><a href="gifs/Incline Dumbbell Curl.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Bench Dip</th>
+<td>3</td>
+<td>12-15</td>
+<td>Triceps</td>
+<td><a href="gifs/Bench Dip.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Cable Fly</th>
+<td>3</td>
+<td>12-15</td>
+<td>Chest</td>
+<td><a href="">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">High Cable Rear Delt Fly</th>
+<td>3</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/Cable Rear Delt Flye.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Straight-Arm Pulldown</th>
+<td>3</td>
+<td>12-15</td>
+<td>Back</td>
+<td><a href="gifs/Straight-Arm Pulldown.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Cable Front Raise</th>
+<td>3</td>
+<td>12-15</td>
+<td>Shoulders</td>
+<td><a href="gifs/Cable Lateral Raise.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Barbell Hack Squat</th>
+<td>3</td>
+<td>12-15</td>
+<td>Legs</td>
+<td><a href="gifs/Barbell Hack Squat.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Hip Thrust</th>
+<td>3</td>
+<td>12-15</td>
+<td>Abs</td>
+<td><a href="gifs/Hip Thrust.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Standing Calf Raise</th>
+<td>3</td>
+<td>12-15</td>
+<td>Calves</td>
+<td><a href="gifs/Standing Calf Raise.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Standing Calf Machine Shrug</th>
+<td>3</td>
+<td>12-15</td>
+<td>Traps</td>
+<td><a href="gifs/Standing Calf Raise.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Barbell Behind the Back Wrist Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Forearms</td>
+<td><a href="gifs/Barbell Behind-the-Back Wrist Curl.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th class="col-md-8">Standing Barbell Reverse Wrist Curl</th>
+<td>3</td>
+<td>12-15</td>
+<td>Forearms</td>
+<td><a href="gifs/Standing Barbell Reverse Wrist Curl.gif">Link</a></td>
+</tr>
+</tbody>
+</table>
+<h3>Day 6</h3>
+<table class="table">
+<thead class="color">
+<tr class="table-head">
+<th scope="col">Exercise</th>
+<th scope="col">Sets</th>
+<th scope="col">Reps</th>
+<th scope="col">Muscle Group</th>
+<th scope="col">Proper Form</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="col-md-8">Barbell Roll Out</th>
+<td>3</td>
+<td>To Failure</td>
+<td>Abs</td>
+<td><a href="gifs/Barbell Roll Out.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Superset with</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+  <th class="col-md-8">Deadlift</th>
+  <td>3</td>
+  <td>12-15</td>
+  <td>Whole Body Movement</td>
+  <td><a href="gifs/Deadlift.gif">Link</a></td>
+</tr>
+<tr>
+  <th class="col-md-8">Roman Chair Crunch</th>
+  <td>3</td>
+  <td>12-15</td>
+  <td>Abs</td>
+  <td><a href="gifs/Roman Chair Crunch.gif">Link</a></td>
+</tr>
+<tr>
+  <th class="col-md-8">Superset with</th>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <th class="col-md-8">Back Extension</th>
+  <td>3</td>
+  <td>12-15</td>
+  <td>Back</td>
+  <td><a href="gifs/Back Extension.gif">Link</a></td>
+</tr>
+<tr>
+  <th class="col-md-8">Standing Lat Pulldown</th>
+  <td>3</td>
+  <td>12-15</td>
+  <td>Back</td>
+  <td><a href="gifs/Standing Lat Pulldown.gif">Link</a></td>
+</tr>
+<tr>
+  <th class="col-md-8">Superset with</th>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <th class="col-md-8">Incline Dumbbell Press</th>
+  <td>2</td>
+  <td>12-15</td>
+  <td>Chest</td>
+  <td><a href="gifs/Incline Dumbbell Press.gif">Link</a></td>
+</tr>
+<tr>
+  <th class="col-md-8">Standing Barbell Shoulder Press</th>
+  <td>2</td>
+  <td>12-15</td>
+  <td>Shoulders</td>
+  <td><a href="gifs/Standing Barbell Shoulder Press.gif">Link</a></td>
+</tr>
+<tr>
+  <th class="col-md-8">Superset with</th>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <th class="col-md-8">Pull-Up</th>
+  <td>2</td>
+  <td>12-15</td>
+  <td>Back</td>
+  <td><a href="gifs/Pull-Up.gif">Link</a></td>
+</tr>
+<tr>
+  <th class="col-md-8">Lying Triceps Extension</th>
+  <td>3</td>
+  <td>12-15</td>
+  <td>Triceps</td>
+  <td><a href="gifs/Lying Triceps Extension.gif">Link</a></td>
+</tr>
+<tr>
+  <th class="col-md-8">Superset with</th>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <th class="col-md-8">Prone Incline Dumbbell Curl</th>
+  <td>3</td>
+  <td>To failure</td>
+  <td>Biceps</td>
+  <td><a href="gifs/Prone Incline Dumbbell Curl.gif">Link</a></td>
+</tr>
+<tr>
+<th class="col-md-8">Seated Calf Raise</th>
+<td>3</td>
+<td>12-15</td>
+<td>Calves</td>
+<td><a href="gifs/Seated Calf Raise.gif">Link</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+
+
+<!--
+<section id="newsletterlogo">
+<div class="container">
+<img class="newsletterlogo" src="images/TFLogo.png">
+<h1>TAKE CONTROL. JOIN TECHFIT.</h1>
+</div>
+</section>
+
+
+<section id="newsletterabout">
+<div class="container">
+<h5>Subscribe for latest news, events and promotions.</h5>
+<br>
+<form>
+<input type="email" placeholder="Enter your email...">
+<button type="submit" class="button_1">Subscribe</button>
+</form>
+</div>
+</section>
+-->

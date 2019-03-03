@@ -1,0 +1,577 @@
+header{
+  display: block;
+  color: black;
+  font-family: "Roboto Condensed",sans-serif;
+  background-color: #08599F;
+  border-width: 1px;
+  position:fixed;
+  width: 100%;
+  z-index: 500;
+  -webkit-box-shadow: 0px 0px 8px 0px #000000;
+  -moz-box-shadow: 0px 0px 8px 0px #000000;
+  box-shadow: 0px 0px 8px 0px #000000;
+}
+header #branding {
+
+}
+header #branding h1 {
+  margin: 0;
+  height: 50px;
+  font-family: "Montserrat",Helvetica,Arial,sans-serif;
+  line-height: 3.8rem;
+  letter-spacing: 0.05rem;
+  text-align: center;
+  padding-right: 20px;
+}
+header #branding img {
+  height: 50px;
+  width: 80px;
+  float: left;
+}
+#newsletter {
+  padding: 15px;
+  margin-bottom: 100px;
+  color: #ffffff;
+  background-color: #35424a
+}
+#newsletter h4{
+  float: left;
+  padding-top: 7px;
+}
+#newsletter form {
+  float: right;
+  margin-top: 10px;
+  padding-bottom: 10px;
+}
+#newsletter input[type="email"]{
+  padding: 5px;
+  height: px;
+
+  width: 250px;
+}
+#newsletterabout {
+  padding: 15px;
+  margin-bottom: 100px;
+  background-color: #white
+}
+#newsletterabout h5{
+  text-align: center;
+  padding-top: 7px;
+}
+#newsletterabout form {
+
+  text-align: center;
+  margin-top: 10px;
+  padding-bottom: 10px;
+}
+#newsletterabout input[type="email"]{
+  padding: 5px;
+  height: px;
+  width: 250px;
+}
+#newsletterlogo{
+  padding-top: 50px;
+}
+#newsletterlogo h1{
+  text-align: center;
+  font-weight: bold;
+  font-size: 52px;
+}
+#newsletterlogo .newsletterlogo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 300px;;
+}
+
+#group h2 {
+  padding-left: 100px;
+  color: black;
+  font-size: 3.2rem;
+  font-weight: 600;
+  font-family: "Montserrat",Helvetica,Arial,sans-serif;
+  line-height: 1.1;
+  line-height: 3.8rem;
+  letter-spacing: 0.025rem;
+  text-transform: uppercase;
+  padding-bottom: 10px;
+}
+.big{
+  width:100%;
+  height:440px;
+
+}
+.small {
+  display: block;
+  margin: 0;
+  width: 480px;
+  height: 300px;
+}
+
+#group table {
+  max-width: 100%;
+  margin: 0;
+  display: block;
+  table-layout: fixed;
+}
+
+#group img {
+  overflow: hidden;
+}
+
+#group table td,
+#group table th,
+#group table tr,
+#group table thead {
+  margin: 0;
+  overflow: hidden;
+}
+#team {
+  padding-top: 30px;
+  padding-bottom: 150px;
+}
+#team p {
+  padding-bottom: 15px;
+}
+#team .container {
+  max-width: 200%;
+  height: 50%;
+
+}
+#team .container h1 {
+  color: black;
+  font-size: 3.2rem;
+  font-weight: 600;
+  font-family: "Montserrat",Helvetica,Arial,sans-serif;
+  line-height: 1.1;
+  line-height: 3.8rem;
+  letter-spacing: 0.025rem;
+  text-transform: uppercase;
+  padding-bottom: 10px;
+}
+.carousel-inner {
+  -webkit-box-shadow: 0px 0px 8px 0px #000000;
+  -moz-box-shadow: 0px 0px 8px 0px #000000;
+  box-shadow: 0px 0px 8px 0px #000000;
+}
+#team .container h2 {
+  color: white;
+}
+
+#founded .jumbotron{
+  border-color: white;
+  background-color: white;
+}
+#founded .jumbotext {
+  text-align: center;
+  color: black;
+  padding-left: 120px;
+  padding-right: 120px;
+}
+#founded h2{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+#founded p{
+  text-align: center;
+}
+}
+#head p {
+  font-size: 18px;
+}
+
+/* Sidebar */
+
+aside#sidebar {
+  margin-right: 50px;
+  float: right;
+  width: 30%;
+}
+aside#sidebar .bar-head {
+  color: black;
+  font-size: 22px;
+  font-family: Helvetica,Arial,sans-serif;
+  line-height: 3.8rem;
+  margin-bottom: -0.5px;
+  padding-top: 15px;
+}
+aside#sidebar .bar-description {
+  color: #919191;
+  font-size: 16px;
+  font-family: "Montserrat",Helvetica,Arial,sans-serif;
+  line-height: 3.8rem;
+  letter-spacing: 0.05rem;
+  padding-top: 5px;
+}
+.bar-description span{
+  color: black;
+  font-size: 16px;
+  font-family: "Montserrat",Helvetica,Arial,sans-serif;
+  line-height: 3.8rem;
+  letter-spacing: 0.05rem;
+}
+/* Main-col */
+#main .container {
+  padding-top: 50px;
+  padding-bottom: 70px;
+}
+
+article#main-col {
+  float: left;
+  width: 65%;
+  text-align: center;
+  padding-right: 100px;
+  padding-left: 20px;
+}
+article#main-col h1 {
+  color: black;
+  font-family: "Montserrat",Helvetica,Arial,sans-serif;
+  line-height: 3.8rem;
+  letter-spacing: 0.05rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  text-align: inherit;
+}
+article#main-col .page-title {
+  padding-bottom: 10px;
+}
+article#main-col .topic {
+  padding-top: 10px;
+  font-size: 20px;
+}
+article#main-col .subject {
+  padding-top: 5px;
+  font-size: 15px;
+  padding-bottom: 10px;
+}
+article#main-col .border{
+  margin: auto;
+  max-width: 95%;
+  width: 530px;
+  border-bottom: 1px solid #c8c8c8;
+}
+article#main-col .description{
+  padding-top: 20px
+}
+#body .weekone {
+  padding-top: 30px;
+}
+
+#body .table{
+  max-width: 80%;
+  margin:auto;
+  padding-top: 100px;
+}
+#body .table-head{
+  text-transform: uppercase;
+}
+#body h1 {
+  color: black;
+  font-size: 3.2rem;
+  font-weight: 600;
+  font-family: "Montserrat",Helvetica,Arial,sans-serif;
+  line-height: 1.1;
+  line-height: 3.8rem;
+  letter-spacing: 0.025rem;
+  text-transform: uppercase;
+  text-align: center;
+  border-width: medium;
+  border-style: inset;
+  border-color: dodgerblue;
+  border-radius: 10px;
+  margin-left: 35%;
+  margin-right: 35%;
+  cursor: pointer;
+  padding: 15px 32px;
+  left: 25%;
+  right: 25%;
+}
+#body h3 {
+  color: black;
+  font-size: 3.2rem;
+  font-weight: 600;
+  font-family: "Montserrat",Helvetica,Arial,sans-serif;
+  line-height: 1.1;
+  line-height: 3.8rem;
+  letter-spacing: 0.025rem;
+  padding-left: 135px;
+  text-transform: uppercase;
+}
+#body .color {
+  background-color: white;
+  color: black;
+  border-style: none;
+}
+#body th {
+
+}
+
+.relativephoto{
+  position: relative;
+  max-height: 100%;
+  width: 100%;
+}
+.absolute-text{
+  position: absolute;
+  font-size: 70px;
+  font-weight: bold;
+  width:100%;
+  text-align:center;
+  color: black;
+}
+.absolute-text a{
+  font-size:16px;
+  color:#b92b27;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+}
+#frontlogo,
+section,
+footer {
+  margin: 0px;
+  padding: 0px;
+}
+#frontlogo h2{
+  text-align: center;
+  background-color: dodgerblue;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 0;
+}
+.photo img {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.post_content {
+    top:0;
+    middle:0;
+    position: absolute;
+    color: white;
+    margin-top: 70px;
+    left: 25%;
+    right:25%;
+}
+.post_content div.title{
+  font-size: 120px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  margin-bottom: -30px;
+}
+.post_content p.caption {
+  font-size: 17px;
+  color: white;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.frontpagelogo {
+  position: absolute;
+
+  height: 200px;
+  width: 275px;
+  left: 0;
+  top: 0;
+  padding-top: 70px;
+  float: left;
+}
+.thumbnail {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    background-size: 100%;
+    border:0;
+    clear: none;
+    margin:0;
+    padding:0;
+    -webkit-box-shadow: 0px 0px 8px 0px #000000;
+    -moz-box-shadow: 0px 0px 8px 0px #000000;
+    box-shadow: 0px 0px 8px 0px #000000;
+}
+.post-content{
+  bottom:0;
+  right:0;
+  position: absolute;
+  color: white;
+  margin-bottom: 100px;
+  margin-right: 100px;
+}
+.post-content h1{
+  color: white;
+  margin:0;
+  text-transform: uppercase;
+
+}
+.post__content{
+  top:0;
+  right:0;
+  position: absolute;
+  margin-top: 180px;
+  margin-right: 50px;
+}
+.post__content h1{
+  color: black;
+  margin:0;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 60px;
+}
+.caption_0 {
+  padding-top: 5px;
+  font-size: 15px;
+}
+tbody{
+  font-family: "Montserrat",Helvetica,Arial,sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#newsletter {
+  padding: 15px;
+  margin-bottom: 100px;
+  color: #ffffff;
+  background-color: #35424a
+}
+#newsletter h4{
+  float: left;
+  padding-top: 7px;
+}
+#newsletter form {
+  float: right;
+  margin-top: 10px;
+  padding-bottom: 10px;
+}
+#newsletter input[type="email"]{
+  padding: 5px;
+  height: px;
+
+  width: 250px;
+}
+#newsletterabout {
+  padding: 15px;
+  margin-bottom: 100px;
+  background-color: #white
+}
+#newsletterabout h5{
+  text-align: center;
+  padding-top: 7px;
+}
+#newsletterabout form {
+
+  text-align: center;
+  margin-top: 10px;
+  padding-bottom: 10px;
+}
+#newsletterabout input[type="email"]{
+  padding: 5px;
+  height: px;
+  width: 250px;
+}
+#newsletterlogo{
+  padding-top: 50px;
+}
+#newsletterlogo h1{
+  text-align: center;
+  font-weight: bold;
+  font-size: 52px;
+}
+#newsletterlogo .newsletterlogo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 400px;;
+}
+.button_1 {
+  height: 38px;
+  background: #e8491d;
+  border: 0;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: white;
+}
+.benefit {
+  padding-top: 100px;
+  padding-left: 200px;
+}
+span.a {
+    display: inline-block;
+    padding: 5px;
+    height: auto;
+    width: 250px;
+    line-height: 250px;
+    -moz-border-radius: 70%; /* or 50% */
+    border-radius: 70%; /* or 50% */
+    border-style: solid;
+    border-color: black;
+    color: dodgerblue;
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    font-family: Arial;
+    margin-right: 125px;
+}
+
+span.b {
+    display: inline-block;
+    padding-right: 500px;
+    padding: 5px;
+    height: auto;
+    width: 250px;
+    line-height: 250px;
+    -moz-border-radius: 70%; /* or 50% */
+    border-radius: 70%; /* or 50% */
+    border-style: solid;
+    border-color: black;
+    color: dodgerblue;
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    margin-right: 125px;
+}
+span.c {
+    display: inline-block;
+    padding-right: 500px;
+    padding: 5px;
+    height: auto;
+    width: 250px;
+    line-height: 250px;
+    -moz-border-radius: 70%; /* or 50% */
+    border-radius: 70%; /* or 50% */
+    border-style: solid;
+    border-color: black;
+    color: dodgerblue;
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+}
+h3 .name {
+  text-align: center;
+}
+.container h2 {
+  color: dodgerblue;
+  font-weight: bold;
+}
+footer{
+  padding-bottom: 10px;
+  padding-top: 15px;
+  color: white;
+  background-color: #08599F;
+  text-align: center;
+}
+
