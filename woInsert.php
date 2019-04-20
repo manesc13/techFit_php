@@ -8,7 +8,7 @@
 <html data-wf-page="5c061d1be4235a6a8e1b8b7f" data-wf-site="5bf2073cdf7c0950912d48c3">
   <head>
     <meta charset="utf-8">
-    <title>register</title>
+    <title>woInsert</title>
     <meta content="register" property="og:title">
     <meta content="width=device-width, initial-scale=1" name="viewport">
     <meta content="Webflow" name="generator">
@@ -27,7 +27,7 @@
     <div class="section">
       <div class="w-container">
         <div class="w-layout-grid grid-4">
-          <!-- tectfit logo -->
+          <!-- tectfit logo
           <img src="images/Tech-Fit-Transparent.png"
             srcset="images/Tech-Fit-Transparent-p-500.png 500w,
             images/Tech-Fit-Transparent-p-800.png 800w, images/Tech-Fit-Transparent-p-1080.png
@@ -36,6 +36,7 @@
             id="w-node-aafe958f74bc-8e1b8b7f" alt="">
           <a id="w-node-0da204d56c39-8e1b8b7f" href="index.php"
             class="w-inline-block"></a>
+            -->
           <!-- form division -->
           <div id="w-node-96bea4b3b95d-8e1b8b7f" class="w-form">
             <!-- message box -->
@@ -95,34 +96,36 @@
               }
               // fill message
               else {
-                echo '<p>Please select a username , email, and password to register
-                  your account.</p>';
+                echo '<p>Please enter a workout name and select a workout group.</p>';
               }
             ?>
-            <!-- Reg Form(User-Name, Email, Password-1, Password-2) -->
+            <!-- Reg Form(wo_name, wo_group, wo_gif) -->
             <form id="email-form" name="email-form" data-name="Email Form"
-                action="techFit_php/includes/register.inc.php" method="post">
-              <!-- username -->
-              <label for="User-Name" class="form-label">Username</label>
+                action="techFit_php/includes/woInsert.inc.php" method="post">
+              <!-- wo_name -->
+              <label for="wo-Name" class="form-label">Workout Name</label>
               <input type="text" class="form-box w-input" maxlength="256"
-                name="User-Name" data-name="Username" id="User-Name" required="">
-              <!-- email -->
-              <label for="Email" class="form-label">Email</label>
-              <input type="text" class="form-box w-input" maxlength="256"
-                name="Email" data-name="Email" id="Email" required="">
-              <!-- password-1 -->
-              <label for="Password-1" class="field-label-3">Password</label>
+                name="wo-Name" data-name="Username" id="User-Name" required=""><br />
+              <!-- wo_group -->
+              <label for="wo-Group" class="form-label">Muscle Group</label>
+              <input type="radio" name="wo-Group" value="chest"> chest<br />
+              <input type="radio" name="wo-Group" value="back"> back<br />
+              <input type="radio" name="wo-Group" value="shoulders"> shoulders<br />
+              <input type="radio" name="wo-Group" value="traps"> traps<br />
+              <input type="radio" name="wo-Group" value="triceps"> triceps<br />
+              <input type="radio" name="wo-Group" value="biceps"> biceps<br />
+              <input type="radio" name="wo-Group" value="legs"> legs<br />
+              <input type="radio" name="wo-Group" value="abs"> abs<br />
+              <input type="radio" name="wo-Group" value="forearms"> forearms<br />
+              <input type="radio" name="wo-Group" value="full body"> full body<br /><br />
+              <!-- wo_gif
+              <label for="wo-GIF" class="field-label-3">GIF Link</label>
               <input type="password" class="form-box w-input" maxlength="256"
                 name="Password-1" data-name="Password-1" id="Password-1" required="">
-              <!-- password-2 -->
-              <label for="Password-2" class="field-label-3">Repeat Password</label>
-              <input type="password" class="form-box w-input" maxlength="256"
-                name="Password-2" data-name="Password-2" id="Password-2" required="">
+              -->
               <!-- submit button -->
               <input type="submit" value="Submit" data-wait="Getting HUGE" class="w-button"
                 name="Reg-Form">
-              <!-- login link -->
-              <a href="login.php">Log in</a>
             </form>
           </div>
         </div>

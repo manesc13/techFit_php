@@ -1,6 +1,5 @@
 <?php
   session_start();
-  include(techFit_php/includes/login.inc.php);
 ?>
 <!DOCTYPE html>
 <!--Mikey Mann-->
@@ -41,33 +40,34 @@
             if(isset($_GET['error'])) {
               // empty fields: 'emptyfield'
               if($_GET['error'] == "emptyfield"){
-                echo "<p class='loginerror'>
-                  Fill in all fields.</p>";
-              }
-              // invalid email / username: 'invalidlogin'
-              else if($_GET['error'] == "invalidlogin"){
-                echo "<p class='loginerror'>
-                  Fill in all fields.</p>";
+                echo "<p>Fill in all fields.</p>";
               }
               // user dne: 'dne'
-              else if($_GET['error'] == "dne"){
-                echo "<p class='loginerror'>
-                  This user does not exist.</p>";
+              elseif($_GET['error'] == "dne"){
+                echo "<p>This user does not exist.</p>";
               }
               // password / authentication fail: 'faillogin'
-              else if($_GET['error'] == "faillogin"){
-                echo "<p class='loginerror'>
-                  Login failed.</p>";
+              elseif($_GET['error'] == "faillogin"){
+                echo "<p>Login failed.</p>";
               }
               // sql error: 'sqlerror'
-              else if($_GET['error'] == "sqlerror"){
-                echo "<p class='loginerror'>
-                  There was a problem connecting to the database. Try again.</p>";
+              elseif($_GET['error'] == "sqlerror"){
+                echo "<p>There was a problem connecting to the database.
+                  Try again.</p>";
               }
               // multiple entries
-              else if($_GET['error'] == "collision"){
-                  echo "<p class='loginerror'>
-                    Login failed.</p>";
+              elseif($_GET['error'] == "collision"){
+                echo "<p>Login failed.</p>";
+              }
+              // invalid email / username: 'invalidlogin'
+              elseif($_GET['error'] == "invalidlogin"){
+                echo "<p>Fill in all fields.</p>";
+              }
+            }
+            elseif(isset($_GET['newpwd'])){
+              // password reset message
+              if ($_GET['newpwd'] == "success") {
+                echo "<p>Your password has been reset. Please log in with your new credentials</p>";
               }
             }
             // fill message
@@ -90,6 +90,8 @@
               <!-- submit button -->
               <input type="submit" value="Login" data-wait="Getting HUGE" class="w-button"
                 name="Login-Form">
+              <!-- forgot password link -->
+              <a href="passReset.php">Forgot password?</a>
               <!-- registration link -->
               <a href="register.php" class="button-3 w-button">Register</a>
             </form>
